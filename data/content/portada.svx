@@ -3,15 +3,29 @@ name: home
 layout: home
 ---
 
-# Introducción
+# Fundación de la Real Academia Española
+La RAE fue creada en Madrid en 1713 por iniciativa de Juan Manuel Fernández Pacheco, marqués de Villena, bajo el reinado de Felipe V. 
+Inspirada en la Academia Francesa, su misión inicial fue preservar la unidad y pureza del español, resumida en su lema «Limpia, fija y da esplendor».
+Su primer gran proyecto fue el Diccionario de autoridades (1726-1739), que incluía citas de autores clásicos para respaldar definiciones, sentando las bases de la lexicografía académica.
 
-Esta es una plantilla para la creación de colecciones culturales digitales basada en Svelte.
+# Consolidación y expansión
+En el siglo XVIII, la RAE publicó obras fundamentales como la Ortografía (1741) y la Gramática (1771), estableciendo normas para el uso correcto del idioma.
+Durante el siglo XIX, adaptó sus esfuerzos a los cambios sociales y tecnológicos, como la supresión de equivalencias latinas en el diccionario (edición de 1869) y la incorporación de vocabulario técnico y americanismos.
 
-Es similar a otros sistemas de computación mínima, como [Wax](https://minicomp.github.io/wax/) o [Collection Builder](https://collectionbuilder.github.io/), pero tiene como fin ser una herramienta educativa para las humanidades digitales acerca de conceptos esenciales relacionados con colecciones digitales (metadatos, ítems, protocolos, narrativas).
+# Política panhispánica y colaboración internacional (siglo XX)
+En 1951, la RAE impulsó la creación de la Asociación de Academias de la Lengua Española (ASALE), integrando a 22 academias de países hispanohablantes.
+Este enfoque colaborativo permitió reflejar la diversidad del español en obras como el Diccionario de la lengua española y la Nueva gramática (2009-2011).
 
-En particular, Serie Mini tiene las siguientes características:
+# Ediciones conmemorativas y difusión cultural 
+Desde finales del siglo XX, la RAE inició la publicación de ediciones conmemorativas para celebrar obras emblemáticas de la literatura en español. 
+Estas ediciones, caracterizadas por su rigor filológico y enfoque divulgativo, incluyen estudios críticos y contextos históricos.
 
-- Interfaz en español
-- Es fácil de instalar (El código está basado en Svelte, no en Jekyll. No requiere contentedores de Docker)
-- Es fácil de usar (Tiene una interfaz CLI que guía en el proceso de configuración y todos los elementos de la colección se disponen en una carpeta particular)
-- Es fácil de publicar en Github Pages por defecto
+# Legado y adaptación contemporánea
+La RAE ha evolucionado desde su rol normativo inicial hacia una visión más inclusiva, reconociendo la riqueza dialectal y la influencia de nuevas tecnologías.
+Su compromiso con la unidad del español se mantiene, como se evidencia en proyectos digitales y la actualización constante de sus obras de referencia.
+
+# Sobre esta colecciones
+Esta es una parte ede mi colección personal de ediciones conmemorativas de la Real Academia Española. Visita los metadatos para profundizar sobre cada una de las ediciones. 
+
+# Función en el proyecto de grado
+Si bien esta colección no tiene que ver directamente con mi proyecto de grado, sería muy interesante que durante el diseño instruccional que estoy llevando a cabo los estudiantes pudieran hacer su propia colección de textos, registros o proyectos. De esta manera, se podría integrar una estructura interdisciplinaria con el área de tecnología que llevara a los estudiantes a reflexionar tanto sobre Inteligencia Artificial como otros herramientas digitales que se pueden integrar con los estudios literarios. 

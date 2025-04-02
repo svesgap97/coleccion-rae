@@ -13,7 +13,7 @@ layout: page
 
 # Recorrido por la colección
 
-Esta colección de muestra recopila varias imágenes con representaciones alegóricas de América tomadas de [Rijksstudio](https://www.rijksmuseum.nl/en), la colección digital del Rijks Museum de Países Bajos. Todas las imágenes usadas están en el dominio público.
+Esta colección recopila los tomos presentes en mi colección personal de ediciones conmemorativas de la Real Academia Española. 
 
 Usa este archivo para incluir contenido que permita hacer un recorrido por la colección.
 
@@ -25,32 +25,20 @@ Así se mostrará una imagen que, si se cliquea, te llevará al elemento de la c
 
 Así:
 
-<ItemPreview pid="AdriaenCollaert" title="Por Adriaen Collaert" />
+<ItemPreview pid="20250331_195250" title="Rayuela, Julio Cortázar" />
 
 También puedes usar urls de imágenes externas con normalidad en el formato Markdown.
 
 ## Elementos interactivos
 
-## Gráfico de barras
-
-`<VizBarChart key="columna con valor categórico" top="numero de barras con mayor conteo (opcional, por defecto 10)/>`
-
-<VizBarChart key="autor"/>
-
 ## Histograma
 
 `<VizBarChart key="columna con valor numérico" />`
 
-<VizHistogram key="fecha"/>
+<VizHistogram key="fecha_publicacion"/>
 
-## Árbol jerárquico
-
-`<VizTree key="Array con columnas con valores categóricos" metadata="metadatos prefiltrados (opcional)"/>`
-
-<VizTree keys={["autor", "label"]}/>
-
-## Línea de tiempo
+## Publicación de la edición conmemorativa
 
 `<VizTimeline dateKey="columna con fecha" metadata="metadatos prefiltrados (opcional)">`
 
-<VizTimeline dateKey="fecha"/>
+<VizTimeline dateKey="fecha_edicion"/>

@@ -1,21 +1,18 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "base": "https://svesgap97.github.io",
+  "baseurl": "/coleccion-rae",
+  "title": "Ediciones especiales de la Real Academia Española",
+  "subtitle": "Colección personal",
+  "credits": "Por Santiago Vesga",
+  "copyright": "TDR, 2025",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
-        "key": "label",
-        "label": "Nombre",
+        "key": "titulo",
+        "label": "Titulo",
         "type": "text"
       },
       {
@@ -24,15 +21,27 @@ const config = {
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "pais",
+        "label": "Pais",
+        "type": "text"
+      },
+      {
+        "key": "anho edicion",
+        "label": "Anho edicion",
+        "type": "text"
+      },
+      {
+        "key": "genero",
+        "label": "Genero",
         "type": "text"
       }
     ],
     "metadataToIndex": [
-      "label",
+      "titulo",
       "autor",
-      "fecha"
+      "pais",
+      "anho edicion",
+      "genero"
     ]
   }
 };

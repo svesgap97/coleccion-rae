@@ -1,5 +1,6 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,titulo,autor,pais,fecha publicacion,fecha edicion,genero,ISBN 
+20250331_195250,1,Rayuela,Julio Cortázar,Argentina,1963,2019,Novela,978-84-204-3748
+20250331_195314,2,Yo el supremo,Augusto Roa Bastos,Paraguay,1974,2017,Novela,978-84-204-7977-4
+20250331_195221,3,Antología General,Pablo Neruda,Chile,1974,2010,Poesía,978-84-204-0496-7
+20250331_195154,4,La ciudad y los perros,Mario Vargas Llosa,Perú,1962,2012,Novela,978-84-204-1233-7
+20250331_195206,5,Antología en verso y prosa,Gabriela Mistral,Chile,1950,2010,Poesía,978-84-204-0559-9
