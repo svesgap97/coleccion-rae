@@ -1,0 +1,19 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://svesgap97.github.io/coleccion-rae/iiif/20250331_195221/0",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 512
+    }
+  ],
+  "width": 4080,
+  "height": 3060
+}

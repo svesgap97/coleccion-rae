@@ -1,0 +1,42 @@
+{
+  "id": "https://svesgap97.github.io/coleccion-rae/iiif/20250331_195154/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "4"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://svesgap97.github.io/coleccion-rae/iiif/20250331_195154/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://svesgap97.github.io/coleccion-rae/iiif/20250331_195154/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://svesgap97.github.io/coleccion-rae/iiif/20250331_195154/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://svesgap97.github.io/coleccion-rae/iiif/20250331_195154/manifest/canvas-0.json",
+              "body": {
+                "id": "https://svesgap97.github.io/coleccion-rae/iiif/20250331_195154/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3060,
+                "width": 4080
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 4080,
+      "height": 3060,
+      "annotations": []
+    }
+  ]
+}
